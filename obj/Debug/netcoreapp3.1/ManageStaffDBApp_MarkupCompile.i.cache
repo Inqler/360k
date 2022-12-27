@@ -1,0 +1,20 @@
+﻿ManageStaffDBApp
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\похуй\OneDrive\Рабочий стол\Новая папка (2)\obj\Debug\netcoreapp3.1\
+ManageStaffDBApp
+none
+false
+TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1;
+C:\Users\похуй\OneDrive\Рабочий стол\Новая папка (2)\App.xaml
+91839673179
+
+241789073069
+213-1139355425
+View\AddNewDepartmentWindow.xaml;View\AddNewPositionWindow.xaml;View\AddNewUserWindow.xaml;View\AuthWin.xaml;View\EditDepartmentWindow.xaml;View\EditPositionWindow.xaml;View\EditUserWindow.xaml;View\MainWindow.xaml;View\MessageView.xaml;
+
+False
+
